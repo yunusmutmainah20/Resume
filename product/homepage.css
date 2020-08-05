@@ -1,0 +1,105 @@
+
+@font-face{
+	font-family: Lato;
+	src:url(Lato-BlackItalic.ttf);
+}
+
+
+body{
+	margin-top: 0px;
+}
+.menu{
+	border: 1px ridge;
+	border-color: #FF6347;
+	padding: 5px;
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+	position:absolute;
+	margin-left: 50px;
+}
+.face{
+	margin-left: 10px;
+}
+/*
+.li{
+	display: block;
+	float: left;
+	font-family: sans-serif;
+	font-size: 9px;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	overflow: hidden;
+	color:white;
+	text-decoration:none;
+}
+#lo{
+	font-family: 'Hind',sans-serif;
+	font-size: 30px;
+	letter-spacing: -2px;
+	text-shadow: 1px 1px 2px;
+	padding-left: 20px;
+	padding-right: 40px;
+	margin-right: 10px;
+	margin-top: -20px;
+}
+*/
+
+
+
+
+
+.learn{
+	border:10px solid;
+	border-color: #B22222;
+	background-color: #B22222;
+	color: white;
+
+}
+.b{
+	border-spacing: 100px;
+}
+
+.second{
+	background-color:#B22222;
+	color: white;
+}
+
+.t{
+	border-collapse: separate;
+	border-spacing: 50px 0px;
+	border-width: 0px;
+	padding: 0px;
+}
+.number{
+	line-height: 4;
+}
+
+nav{
+	width: 100%;
+	background-color:white;
+	height: 40px;
+	overflow: hidden;
+}
+nav a{
+	float: left;
+	font-family: sans-serif;
+	display: block;
+	padding-right:10px;
+	padding-bottom:10px;
+	padding-left: 10px;
+	text-decoration: none;
+	color:black;
+	font-size: 10px;
+
+}
+
+#lo{
+	padding-left: 20px;
+	padding-right: 40px;
+	margin-right:200px;
+	color:#B22222;
+	font-size: 12px;  
+}

@@ -1,0 +1,65 @@
+
+.first-nav{
+	width: 100%;
+	position: ;
+	height: 50px;
+	color:white;
+	background-color:#800000; 
+	margin-top:0; 
+}
+.first-list{
+	display: flex;
+	list-style: none;
+	justify-content: space-around;
+}
+body{
+	text-align: center;
+	font-family: sans-serif; 
+}
+
+#welcome-section{
+	background-color: black;
+	height: 250px;
+}
+
+#projects{
+	background-color:#4981CE;
+	color: white;
+	height: 1200px;
+	padding-top:1.5%;
+	padding-bottom:1.5%;
+}
+#skill-set{
+	width:100%;
+}
+#skill-row{
+	list-style: none;
+	justify-content: space-around;
+}
+
+a{
+	text-decoration: none;
+	color: #800000
+	line-height:2;
+}
+a:hover{
+	color:#4981CE; 
+
+}
+div{
+	margin-top: 40px;
+}
+
+img{
+	max-width:auto;
+	max-height: auto;
+}
+
+#product{
+	height: 500px;
+	width: 700px;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }

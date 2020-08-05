@@ -1,0 +1,108 @@
+body {
+  font-family: "Montserrat";
+}
+
+#introduction {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+/*Navigation bar*/
+
+.navbar-custom {
+  background: #ff4c68;
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Monteserrat-Light";
+}
+
+.intro-content {
+  padding-top: 10%;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+.title-text {
+  justify-content: start;
+}
+.title-text p {
+  font-weight: bold;
+  font-size: 1 rem;
+}
+
+.title-image-container {
+  padding-left: 15%;
+}
+
+.title-image {
+  border-radius: 4px;
+}
+/*Button*/
+.hire-button {
+  margin: 5% 3% 5% 0%;
+}
+
+#portfolio-slides {
+  text-align: center;
+  background-color: #edeae0;
+  color: #fff;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#portfolio-slides a {
+  font-family: "Montserrat";
+  font-size: 24px;
+  line-height: 16px;
+  text-decoration: none;
+  color: #ff4c68;
+}
+
+.portfolio-image {
+  width: auto;
+  border-radius: 3%;
+  margin: 20px;
+  height: 300px;
+  margin-bottom: 50px;
+}
+
+#footer {
+  background: #ff4c68;
+  text-align: center;
+  padding: 16px;
+}
+
+#footer i {
+  padding: 20px 10px;
+}
+
+footer {
+  margin-top: 250px;
+  margin-bottom: 5px;
+}
+
+footer p {
+  font-size: 16px;
+  color: #fff;
+}
+#footer a {
+  color: #edeae0;
+}
