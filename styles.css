@@ -57,6 +57,7 @@ h1 {
 /*Button*/
 .hire-button {
   margin: 5% 3% 5% 0%;
+  text-decoration:none;
 }
 
 #portfolio-slides {
